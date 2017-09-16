@@ -1,6 +1,6 @@
 {
   "name": "nycbblinfo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "new york city borough block lot info",
   "author": "pk11112999",
   "private": true,
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "express": "4.15.4",
+    "purecss": "1.0.0",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0"
   },
