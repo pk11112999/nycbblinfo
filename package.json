@@ -1,7 +1,7 @@
 {
   "name": "nycbblinfo",
   "version": "0.0.1",
-  "description": "new york city borough block lot info",
+  "description": "new york city borough block and lot information",
   "author": "pk11112999",
   "private": true,
   "scripts": {
